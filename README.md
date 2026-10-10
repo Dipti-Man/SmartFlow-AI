@@ -3,7 +3,7 @@
 This repository contains the full implementation, figures, and data outputs for the paper:
 
 **Real-Time Traffic Monitoring Using Deep Learning and Multi-Object Tracking**  
-Yoshua Alexander | The University of Texas at Dallas
+Diptiman Singha
 
 This project demonstrates a lightweight vision-based system that detects, tracks, and analyzes traffic flow using only a single fixed video camera. Vehicle detections are generated using YOLOv8, and multi-object tracking is achieved via a Kalman filter with IoU-based association. From these tracks, the system computes frame-level vehicle density and a normalized congestion score. All results, figures, and code are included for full reproducibility.
 
